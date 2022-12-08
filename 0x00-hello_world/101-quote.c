@@ -13,6 +13,7 @@
 int main(void)
 {
 	write(1, "and that piece of art its useful\" - Dora Kopar, 2015-10-19\n", 59);
+	write(2, "[Anything]", 10);
 	return (1);
 }
 
